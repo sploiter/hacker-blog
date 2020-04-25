@@ -1,9 +1,9 @@
 title: SY3-Blog
 description: "A Jekyll Blog Theme For Hackers"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "Ahmed Elsayed"
+  email: "SYE@Bugcrowdninja.com"
+  url: "https://M.me/MagHollio"
 
 baseurl: /
 
@@ -29,4 +29,4 @@ plugins:
 
 # Custom variables
 owner : "SY3"
-year : "XoXo"
+year : "2020"

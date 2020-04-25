@@ -3,4 +3,9 @@ layout: page
 title: About
 ---
 
-Something about me.
+Penetration Tester & Bug Bounty Hunter.
+
+For any inquiry, PM me here
+
+Email: SYE@Bugcrowdninja.com
+

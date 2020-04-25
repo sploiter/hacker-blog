@@ -9,5 +9,3 @@ For any inquiry, PM me here
 
 Email: SYE@Bugcrowdninja.com
 
-Hello
-Hello
